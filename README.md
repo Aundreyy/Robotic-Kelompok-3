@@ -1,6 +1,6 @@
 # Robotic-Kelompok-3
 Codingan robot mobile
-Nama ANggota:
+Nama Anggota:
 Prayuda (2510819110008)
 Andre Cristian Nathanael (2410817210006)
 Muhamad Ikhsan Saufi (2510819210010)
