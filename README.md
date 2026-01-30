@@ -1,5 +1,4 @@
 # Robotic-Kelompok-3
-Codingan robot mobile
 Nama Anggota:
 Prayuda (2510819110008)
 Andre Cristian Nathanael (2410817210006)
